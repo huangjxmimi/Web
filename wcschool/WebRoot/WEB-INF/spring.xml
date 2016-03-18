@@ -10,6 +10,10 @@
         http://www.springframework.org/schema/context/spring-context-4.1.xsd  
         http://www.springframework.org/schema/tx  
         http://www.springframework.org/schema/tx/spring-tx-4.1.xsd">  
+        <context:component-scan base-package="com.wcschool"/>	
+    <!-- 可通过注解控制事务 -->
+    <tx:annotation-driven />   
+    <!-- 导入外部的资源文件   一般都会把数据源的配置文件房子properties文件里面  然后用这种方式来导入  -->
 <context:property-placeholder location="classpath:jdbc.properties"/>
  <context:component-scan base-package="com.wcschool.services"/>
 </beans>

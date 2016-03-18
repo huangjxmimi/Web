@@ -3,7 +3,7 @@
 "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.wcschool.moder.userinfo">
 
-   <insert id="save"  parameterType="com.wcschool.model.userinfo"
+   <insert id="save"  parameterType="userinfo"
          flushCache="true"  statementType="PREPARED" timeout="20">
            
     </insert>
