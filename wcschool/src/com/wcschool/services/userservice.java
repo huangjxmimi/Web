@@ -1,5 +1,9 @@
 package com.wcschool.services;
 
-public interface userservice {
+import com.wcschool.model.Userinfo;
 
+
+public interface userservice {
+        public void save(Userinfo user);
+        public boolean login(String username,String password);
 }

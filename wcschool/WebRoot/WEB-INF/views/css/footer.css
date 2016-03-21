@@ -1,0 +1,217 @@
+/*****************************************/
+/*基础header颜色*/
+
+.uf-text
+{
+    color: green;
+}
+.uf-text-act
+{
+    color: #4a86e8;
+}
+.bc-register
+{
+    font-size: 12;
+    color: green;
+    margin-left: 10%;
+   margin-right:67%;
+}
+.bc-register.a
+{
+    font-size: 12;
+    color: red;
+    margin-left: 10%;
+   margin-right:67%;
+}
+.bc-logining
+{
+    font-size: 12;
+    color: red;
+    margin-left: 40%;
+   margin-right: 30%;
+}
+.re-head
+{
+    background-color: black;
+    padding-top:5%;
+     padding-left:5%;
+    color:#FFFFFF
+}
+.back
+{
+   padding-top:20%； 
+     color:#FFFFFF
+    margin-left:10%;
+   margin-right:80%;
+}
+.bc-img
+{
+    -webkit-background-size:100% 100%;
+    
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right:5%;
+   
+}
+.panelpop-body
+{
+     background-color: rgba(102, 102, 102, 0.6);
+      -moz-opacity:0.5;  
+      -khtml-opacity: 0.5;  
+      opacity: 0.5;  
+      width: 100%;
+      height: 100%;
+}
+.panelpop-menu
+{
+    background-color: background-color: rgba(255, 255, 255, 1);
+      -moz-opacity:1;  
+      -khtml-opacity: 1;  
+      opacity: 1;  
+}
+.bc-body
+{
+     background-color: rgba(255, 255, 255, 0.6);
+      -moz-opacity:0.5;  
+      -khtml-opacity: 0.5;  
+      opacity: 0.5;  
+}
+.bc-uploadarea
+{
+     -webkit-background-size:100% 100%;
+     margin-top: 10%;
+}
+.abadge {
+    -webkit-background-size:100% 100%;
+  width: 3em;
+    height: 3em;
+     background-image: url('res/sf.jpg');
+    -moz-border-radius: 5em;
+    -webkit-border-radius: 5em;
+    border-radius: 5em;
+} 
+.circle {
+    -webkit-background-size:100% 100%;
+  width: 3em;
+    height: 3em;
+     
+    -moz-border-radius: 5em;
+    -webkit-border-radius: 5em;
+    border-radius: 5em;
+} 
+.sc-text-contact
+{
+    color:black;
+}
+.middle
+{
+      min-height: 2em;
+    min-width: 12em;
+    display: -webkit-box !important;
+    display: box !important;
+    position: relative;
+    -webkit-box-align: center;
+    box-align: center;
+    -webkit-box-pack: center;
+    box-pack: center;
+    margin-left: auto;
+margin-right: auto;
+}
+.contact-bg
+{
+    background-color: #E3E3E3;
+}
+.btnn
+{
+padding     : auto;
+}
+.hh
+{
+    color: red;
+}
+.height1
+{
+    min-height:8em;
+    min-width: 8em;
+    margin-left: auto;
+    
+    position:absolute;
+   
+}
+.height
+{
+    min-height:2em;
+    min-width: 8em;
+}
+.huangyemiddle
+{
+      min-height: 2em;
+    min-width: 12em;
+    display: -webkit-box !important;
+    display: box !important;
+    position: relative;
+    -webkit-box-align: center;
+    box-align: center;
+    -webkit-box-pack: center;
+    box-pack: center;
+    margin-left: auto;
+margin-right: auto;
+}
+.footermiddle
+{
+      min-height: 4em;
+    min-width: 12em;
+    display: -webkit-box !important;
+    display: box !important;
+    position: relative;
+    -webkit-box-align: center;
+    box-align: center;
+    -webkit-box-pack: center;
+    box-pack: center;
+    margin-left: auto;
+margin-right: auto;
+}
+.kuaidimiddle
+{
+      min-height: 4em;
+   
+    display: -webkit-box !important;
+    display: box !important;
+    position: relative;
+    -webkit-box-align: center;
+    box-align: center;
+    -webkit-box-pack: center;
+    box-pack: center;
+    margin-left: 20%;
+
+}
+.right
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.fff
+{
+    width:95%;
+}
+.wf
+{
+      min-height: 4em;
+   
+    display: -webkit-box !important;
+    display: box !important;
+    position: relative;
+    -webkit-box-align: center;
+    box-align: center;
+    -webkit-box-pack: center;
+    box-pack: center;
+    
+}
+.height2
+{
+     min-height:50em;
+    min-width: 100em;
+    margin-left: auto;
+    
+ 
+}

@@ -1,0 +1,146 @@
+/*****************************************/
+/*基础header颜色*/
+.bc-head {
+    background-color: #dd3030;
+}
+.bc-tab-jiaotong
+{
+    background-color: #4a86e8;
+}
+/*****************************************/
+/*基础body背景颜色*/
+.bc-bg {
+    background-color: #f8faf8;
+}
+/*辅助控件背景颜色*/
+.sc-bg {
+    background-color: #FFFFFF;
+}
+.footer-bg
+{
+    background-color:#C6C6C6 ;
+}
+/*辅助控件背景颜色*/
+.sc-bg-active {
+    background-color: #EEEEEE;
+}
+/*警告背景色*/
+.sc-bg-alert {
+    background-color: #F16412;
+}
+/*****************************************/
+/*基础字体颜色*/
+.bc-text {
+    color: black;
+}
+/*基础标题字体颜色*/
+.bc-text-head {
+    color: #E3E3E3;
+}
+/*辅助字体颜色*/
+.sc-text {
+    color: #848484;
+}
+/*辅助字体颜色*/
+.sc-text-active {
+    color: green !important;
+}
+/*辅助字体颜色*/
+.sc-text-hint {
+    color: #E3E3E3;
+}
+/*辅助字体颜色*/
+.sc-text-warn {
+    color: #FC7800;
+}
+/*辅助字体颜色*/
+.sc-text-tab {
+    color: #000000;
+}
+/*****************************************/
+/*基础边框颜色*/
+.bc-border {
+    border-color: #BABABA;
+}
+/*辅助边框颜色*/
+.sc-border {
+    border-color: #FFFFFF;
+}
+.sc-border-tab {
+    border-color: #dd3030;
+}
+/*****************************************/
+/*基础按钮颜色*/
+.bc-btn {
+    background-color: #DD3030;
+}
+/*辅助按钮颜色*/
+.sc-btn {
+    background-color: #F7CB8C;
+}
+.bc-defualtlist
+{
+    background-color: #E3E3E3;
+    font-weight: bold;
+}
+
+.sc-border-headtab {
+    border-color: #2294C3;
+}
+
+.bc-text-edit
+{
+    background-color: #4a86e8;
+    color: #EEEEEE;
+     
+}
+.bc-text-edit-active
+{
+    background-color: #EEEEEE;
+    color: #4a86e8;
+}
+.bc-text-edit-active-l
+{
+   
+    color: #4a86e8;
+    font-weight: bold;
+}
+.bc-text-edit-active-l1
+{
+   
+    color: #4a86e8;
+    
+}
+.wid
+{
+    width: 50%;
+}
+.red-text
+{
+    color:red;
+}
+.hospital
+{
+    color: #27A73F;
+}
+.kuaidi
+{
+    color:#4EEE94;
+}
+.hotel
+{
+    color:#63B8FF;
+    
+}
+.bank
+{
+    color:#EE8262;
+}
+.gonggongfuwu
+{
+    color:  #EE2C2C;
+}
+.border-list
+{
+    border-color: #C6C6C6;
+}

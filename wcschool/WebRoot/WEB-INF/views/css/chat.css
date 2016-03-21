@@ -1,0 +1,111 @@
+.talk_recordbox{
+     margin-right: auto;
+    margin-top:20px;
+    color: #afafaf;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 0px;
+}
+
+ .talk_recordbox:first-child{border-top:none;}
+ .talk_recordbox:last-child{border-bottom:none;}
+ .talk_recordbox .talk_recordtextbg{
+    float:left;
+     width:10px;
+    height:30px;
+    height:auto;
+    display:block;
+    background-image: url(res/talk_recordtext.png);
+    background-repeat: no-repeat;
+    background-position: left top;}
+ .talk_recordbox .talk_recordtext{
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+    background-color:#b8d45c;
+    min-width:8em;
+    height:auto;
+    display:block;
+    padding: 5px;
+    float:left;
+    color:#333333;
+}
+ .talk_recordbox h3{
+  
+    padding:2px 0 5px 0;
+    text-transform:uppercase;
+    font-weight: 100;
+    
+}
+ .talk_recordbox .user {
+    float:left;
+    display:inline;
+    margin-top: 0px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+   
+    line-height: 20px;
+    text-align: center;
+}
+.talk_recordboxme
+{
+     margin-top:20px;
+    margin-left: auto;
+    display:block;
+   max-width:20em;
+   height: auto;
+    color: #afafaf; 
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 0px;
+}
+.talk_recordboxme .talk_recordtextbg{
+    float:right;
+    width:10px;
+    height:30px;
+    display:block;
+    background-image: url(res/talk_recordtextme.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    }
+.talk_recordboxme .talk_recordtext
+{
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+    background-color:#fcfcfc;
+    max-width:10em;
+    height:auto;
+    padding: 5px;
+    color:#666;
+    float:right;
+}
+.talk_recordboxme h3{
+   
+    padding:2px 0 5px 0;
+    text-transform:uppercase;
+    font-weight: 100;
+    color:#333333;
+    
+}
+.talk_recordboxme .user{
+    float:right;
+  
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+   
+    line-height: 20px;
+    text-align: center;
+    display:inline;
+}
+.talk_time{
+    color: #666;
+    text-align: right;
+    width: 240px;
+    display: block;
+}
