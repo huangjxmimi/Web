@@ -4,7 +4,7 @@ import java.util.List;
 
 public class pageBean {
       
-	private static final long serialVersionUID = 1L;
+	@SuppressWarnings("rawtypes")
 	private List list;//要返回的某一页的记录列表
 	private int allRow;//总记录数
 	private int currentPage;//当前页数
@@ -38,9 +38,11 @@ public class pageBean {
 		final int curpage=(page==0?1:page);
 		return curpage;
 	}
+	@SuppressWarnings("rawtypes")
 	public List getList() {
 		return list;
 	}
+	@SuppressWarnings("rawtypes")
 	public void setList(List list) {
 		this.list = list;
 	}

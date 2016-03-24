@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <title>瓦厂小学微官网首页</title>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <script type="text/javascript" src="http://tajs.qq.com/stats?sId=37342703" charset="UTF-8"></script>
+    <link rel="stylesheet" href="../views/frozenui/css/frozen.css">
+    <link rel="stylesheet" href="../views/frozenui/css/basic.css">
+    <link rel="stylesheet" href="../views/css/ui-base.css">
+    <link rel="stylesheet" href="../views/css/ui-color.css">
+    <link rel="stylesheet" href="../views/css/footer.css">
+    <link rel="stylesheet" href="../views/css/fonts/font-awesome.css">
+</head>
+<body ontouchstart  class="bc-bg">
+<header class="ui-header  ui-header-stable ui-border ui-border-b  "></header>
+<footer class=" ui-footer ui-footer-Mybtn">
+    <ul class="ui-tiled footermiddle">
+        <li data-href="#"  class="ulev-1" onclick="phone()">
+             <div class="fa fa-phone fa-2x"></div>
+             <p>电话咨询</p>
+        </li>
+        <li data-href="index.html"  class="ulev-1">
+        <div class="fa fa-google-plus-square fa-2x"></div>
+        <p>信息咨询</p>
+        </li>
+        <li data-href="index.html"  class="ulev-1">
+            <div class="fa fa-map fa-2x"></div>
+            <p>在线地图</p>
+        </li>
+        <li data-href="index.html"  class="ulev-1">
+            <div class="fa fa-file-text fa-2x"></div>
+            <p>留言板</p>
+        </li>
+    </ul>
+</footer>
+<section class="ui-container">
+
+
+
+    <div class="ui-dialog">
+        <div class="ui-dialog-cnt">
+            <header class="ui-dialog-hd ui-border-b">
+                <h3>新手任务</h3>
+                <i class="ui-dialog-close" data-role="button"></i>
+            </header>
+            <div class="ui-dialog-bd ubt">
+                <h4>标题标题</h4>
+                <div>开通年费QQ会员即可领取欢乐斗地主感恩节回馈礼包！</div>
+            </div>
+            <div class="ui-dialog-ft">
+                <button type="button" data-role="button" onclick="$(this).hide()">取消</button>
+                <button type="button" data-role="button">开通</button>
+            </div>
+        </div>
+    </div>
+</section>
+<!--/.ui-container -->
+<script src="../views/frozenui/lib/zepto.min.js"></script>
+<script src="../views/frozenui/js/frozen.js"></script>
+<script>
+    $('.ui-list li,.ui-tiled li').click(function(){
+        if($(this).data('href')){
+            location.href= $(this).data('href');
+        }
+    });
+    $('.ui-header .ui-btn').click(function(){
+        location.href= 'index.html';
+    });
+    function phone()
+    {
+        $(".ui-dialog").dialog("show");
+    }
+</script>
+</body>
+</html>

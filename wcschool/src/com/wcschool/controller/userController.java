@@ -17,7 +17,7 @@ public class userController {
 	 @Autowired
 	 @Qualifier("userservices")
 	private userservicesimpl userservimpl;
-	@RequestMapping("/login")
+	@RequestMapping("home/login")
 	public String login()
 	{
 		Userinfo user =new Userinfo();
@@ -31,7 +31,7 @@ public class userController {
 		
 		else
 		{
-			return "ssf";
+			return "Home_Page";
 		}
 		
 	}

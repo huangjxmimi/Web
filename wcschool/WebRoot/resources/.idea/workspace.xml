@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74a990f8-b73d-476b-91ef-6b825ccdb651" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\actionsheet.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\arrowlink.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\avatar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\badge.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\border.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\btn.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\cover.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\css.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\demo.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\demo.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\form.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\grid.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\icon.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\iconfont\demo.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\iconfont\demo.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\iconfont\iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\iconfont\iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\iconfont\iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\iconfont\iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\iconfont\iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\js.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\justify.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\label.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\layout.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\list.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\loading.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\newstips.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\notice.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\nowrap.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\panel.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\placehold.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\poptips.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\progress.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\reddot.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\scroller.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\searchbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\selector.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\slider.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\actionsheet.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\arrowlink.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\avatar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\badge.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\border.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\btn.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\cover.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\form.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\grid.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\icon.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\include\footer.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\include\header.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\js.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\justify.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\label.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\layout.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\list.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\loading.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\newstips.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\notice.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\nowrap.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\panel.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\placehold.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\poptips.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\progress.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\reddot.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\scroller.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\searchbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\selector.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\slider.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\tab.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\table.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\tag.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\tips.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\tooltips.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\type.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\ui.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\vip.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\src\whitespace.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\tab.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\table.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\tag.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\tips.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\tooltips.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\type.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\ui.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\util.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\vip.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\git\wcschool\WebRoot\WEB-INF\views\frozenui\demo\whitespace.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Home_Page.html" afterPath="$PROJECT_DIR$/Home_Page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frozenui/dist/css/basic.css" afterPath="$PROJECT_DIR$/frozenui/dist/css/basic.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frozenui/css/frozen.css" afterPath="$PROJECT_DIR$/frozenui/css/frozen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="views.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="views" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Home_Page.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Home_Page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30750307">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ui-color.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/ui-color.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frozenui/dist/css/basic.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.0735295">
+              <caret line="0" column="2590" selection-start-line="0" selection-start-column="2590" selection-end-line="0" selection-end-column="2590" />
+              <folding>
+                <element signature="e#11223#12442#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="border.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frozenui/css/border.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frozen.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frozenui/css/frozen.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="44.72059">
+              <caret line="1791" column="27" selection-start-line="1791" selection-start-column="27" selection-end-line="1791" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/templates/main_page.html" />
+        <option value="$PROJECT_DIR$/frozenui-1.3.0/demo/src/table.html" />
+        <option value="$PROJECT_DIR$/frozenui/css/frozen.css" />
+        <option value="$PROJECT_DIR$/frozenui/dist/css/basic.css" />
+        <option value="$PROJECT_DIR$/Home_Page.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\wcschool\WebRoot\WEB-INF\views" />
+      <recent name="D:\git\wcschool\WebRoot\WEB-INF\views\js" />
+      <recent name="D:\git\wcschool\WebRoot\WEB-INF\views\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74a990f8-b73d-476b-91ef-6b825ccdb651" name="Default" comment="" />
+      <created>1458528478553</created>
+      <option name="number" value="Default" />
+      <updated>1458528478553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Home_Page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frozenui/dist/css/basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#11223#12442#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frozenui/css/frozen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="428" column="50" selection-start-line="428" selection-start-column="50" selection-end-line="428" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/icons/out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.059031878">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frozenui/sass/basic.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19871795">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frozenui/sass/frozen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0192307">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frozenui/css/btn-group.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frozenui/dist/css/frozen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.200246">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frozenui/css/frozen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="44.72059">
+          <caret line="1791" column="27" selection-start-line="1791" selection-start-column="27" selection-end-line="1791" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ui-box.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4569068">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.316411">
+          <caret line="214" column="4" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/appcan.control.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0212517">
+          <caret line="145" column="50" selection-start-line="145" selection-start-column="50" selection-end-line="145" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ui-base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.135773">
+          <caret line="174" column="45" selection-start-line="174" selection-start-column="45" selection-end-line="174" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frozenui/dist/css/basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0735295">
+          <caret line="0" column="2590" selection-start-line="0" selection-start-column="2590" selection-end-line="0" selection-end-column="2590" />
+          <folding>
+            <element signature="e#11223#12442#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frozenui/css/border.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ui-color.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30750307">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
