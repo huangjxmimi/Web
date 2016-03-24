@@ -1,5 +1,11 @@
 package com.wcschool.controller;
 
+
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
@@ -18,8 +24,10 @@ public class userController {
 	 @Qualifier("userservices")
 	private userservicesimpl userservimpl;
 	@RequestMapping("home/login")
-	public String login()
-	{
+	public String login(HttpServletRequest request,HttpServletResponse response)
+	{		
+		username =request.getParameter("username");
+		password =request.getParameter("password");
 		Userinfo user =new Userinfo();
 		user.setUsername("123");
 		user.setPassword("123");
