@@ -244,3 +244,8 @@
     height: 2.8em;
     background-image: url('res/baoxian.jpg');
 }
+.baner
+{
+	-webkit-background-size:100% 100%;
+	background-image: url('../images/banner.jpg');
+}

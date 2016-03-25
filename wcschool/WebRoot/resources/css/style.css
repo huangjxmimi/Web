@@ -2,3 +2,28 @@
 {
     background-color: aquamarine;
 }
+
+.login-form
+{
+     max-height: 30%;
+     max-width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+    margin-bottom: auto;
+}
+.font
+{
+    font-family: "Helvetica Neue", Helvetica, STHeiTi, sans-serif;
+    font-weight: bolder;
+    color: #f3f2f2;
+}
+.baner
+{
+    -webkit-background-size:100% 100%;
+    background-image: url('../images/banner.jpg');
+}
+.warn
+{
+   
+}

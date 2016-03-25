@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>瓦厂小学后台管理页面</title>
+	
+    <meta name="keywords" content="keyword1,keyword2,keyword3">
+    <meta name="description" content="this is my page">
+    <meta name="content-type" content="text/html; charset=UTF-8">
+    
+    <!--<link rel="stylesheet" type="text/css" href="./styles.css">-->
+      
+<link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+<!-- 可选的Bootstrap主题文件（一般不用引入） -->
+<link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+      <link rel="stylesheet" href="../resources/css/style.css">
+      <link rel="stylesheet" href="../resources/css/ui-base.css">
+      <link rel="stylesheet" href="../resources/css/ui-color.css">
+      <link rel="stylesheet" href="../resources/css/ui-box.css">
+      <link rel="stylesheet" href="../resources/css/ui-btn.css">
+      <link rel="stylesheet" href="../resources/css/footer.css">
+      <link rel="stylesheet" href="../resources/css/fonts/font-awesome.css">
+
+      <script src="http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js"></script>
+
+      <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+      <script src="http://apps.bdimg.com/libs/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+      <script src="../resources/js/logincheck.js"></script>
+  </head>
+  
+  <body class="baner">
+
+  <div class="page-header  ub ub-ae">
+      <div class=" ub-f1 "></div>
+     <div class="tx-c  ub-f1 font "> <h3>欢迎使用瓦厂小学后台信息管理系统</h3></div>
+      <div class=" ub-f1 "></div>
+  </div>
+
+  <div class="panel panel-default uba border-list login-form">
+      <div class="panel-body">
+          <ul class="nav nav-tabs">
+
+              <li id="li_login" class="active"><a href="#">登录</a></li>
+              <li  id="li_reg"><a  >注册</a></li>
+          </ul>
+          <div id="login" class="umar-t">
+              <form class="form-horizontal " role="form">
+                  <div class="form-group">
+                      <label for="username" class=" col-sm-3 control-label ">用户名:</label>
+                      <div class="col-sm-5 ">
+                          <input type="text" class="form-control  " id="username"
+                                 placeholder="请输入用户名">
+                      </div >
+                      <div class="col-sm-4 warn uinn">
+                       <p  id="warn_uname" class="ulev-1 sc-text-warn"></p>
+                      </div>
+                  </div>
+                  <div class="form-group">
+                      <label for="password" class="col-sm-3 control-label" >密码:</label>
+                      <div class="col-sm-5">
+                          <input type="password" class="form-control" id="password"
+                                 placeholder="请输入密码">
+                      </div>
+                      <div class="col-sm-4 uinn">
+                          <p  id="warn_pwd" class="ulev-1 sc-text-warn"></p>
+                      </div>
+                  </div>
+                  <div class="form-group">
+                      <div class="col-sm-offset-2 col-sm-10">
+                          <div class="checkbox ulev-1">
+                              <label>
+                                  <input type="checkbox"> 请记住我
+                              </label>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="form-group">
+                      <div class="col-sm-offset-2 col-sm-10">
+                          <button type="submit" class="btn btn-primary">登录</button>
+                      </div>
+                  </div>
+              </form>
+          </div>
+          <div id="register" class="umar-t">
+              <form class="form-horizontal " role="form">
+                  <div class="form-group">
+                      <label for="username" class=" col-sm-3 control-label">用户名:</label>
+                      <div class="col-sm-4 ">
+                          <input type="text" class="form-control  " name="username"
+                                 placeholder="请输入用户名">
+                      </div>
+                      <div class="col-sm-4 warn uinn">
+                          <p  id="warn_uRname" class="ulev-1 sc-text-warn"></p>
+                      </div>
+                  </div>
+                  <div class="form-group">
+                      <label for="password" class="col-sm-3 control-label" >密码:</label>
+                      <div class="col-sm-5">
+                          <input type="password" class="form-control" name="password"
+                                 placeholder="请输入密码">
+                      </div>
+                      <div class="col-sm-4 warn uinn">
+                          <p  id="warn_uRpwd" class="ulev-1 sc-text-warn"></p>
+                      </div>
+                  </div>
+                  <div class="form-group">
+                      <label for="Repassword" class="col-sm-3 control-label" >确认密码:</label>
+                      <div class="col-sm-5">
+                          <input type="password" class="form-control" id="Repassword"
+                                 placeholder="请再输入密码">
+                      </div>
+                      <div class="col-sm-4 warn uinn">
+                          <p  id="warn_uRepwd" class="ulev-1 sc-text-warn"></p>
+                      </div>
+                  </div>
+                  <div class="form-group">
+                      <div class="col-sm-offset-2 col-sm-10">
+                          <button type="submit" class="btn btn-primary">登录</button>
+                      </div>
+                  </div>
+              </form>
+          </div>
+      </div>
+      <div class="panel-footer ulev-1">*建议使用ie8以上版本浏览器或谷歌Chrome浏览器浏览页面</div>
+  </div>
+  </body>
+
+</html>
